@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-label="Автомобиль">
+  <path d="M40 150 L70 100 Q80 85 100 85 L250 85 Q275 85 290 105 L330 130 Q360 135 362 160 L362 170 L40 170 Z" fill="#ff9f1c"/>
+  <path d="M95 98 L240 98 Q258 98 268 112 L285 130 L80 130 Z" fill="#cfe8ff"/>
+  <line x1="165" y1="98" x2="165" y2="130" stroke="#ff9f1c" stroke-width="5"/>
+  <circle cx="110" cy="172" r="30" fill="#1f2d3d"/><circle cx="110" cy="172" r="13" fill="#9aa7b4"/>
+  <circle cx="295" cy="172" r="30" fill="#1f2d3d"/><circle cx="295" cy="172" r="13" fill="#9aa7b4"/>
+  <rect x="340" y="140" width="22" height="12" rx="3" fill="#fff3b0"/>
+</svg>
